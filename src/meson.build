@@ -1,8 +1,11 @@
 
 sya_hdr = [
+    'sqfs-simple-writer.h',
 ]
 
 sya_src = [
+    'sqfs-simple-writer.c',
+    'sqfs-fstree.c',
 ]
 
 sya_moc_src = [
